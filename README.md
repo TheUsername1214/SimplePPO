@@ -1,5 +1,5 @@
 # Simple Parallel PPO
-The most simple parallel PPO implementation on earth
+The most simple parallel PPO implementation on earth. Based on PyTorch only.
 
 
 
