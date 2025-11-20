@@ -1,6 +1,11 @@
 # Simple Parallel PPO
 The most simple parallel PPO implementation on earth. 
-Based on PyTorch only.
+
+### ————————————requirement————————————————###########
+Python 3.9 and higher
+Torch (no spcific version requirement)
+Numpy (no spcific version requirement)
+Matplotlib (no spcific version requirement)
 
 
 
