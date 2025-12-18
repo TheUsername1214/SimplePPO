@@ -1,5 +1,5 @@
 # Simple Parallel PPO
-The most simple parallel PPO on earth. 
+The most simple parallel PPO (Continuous & Discrete) on earth. 
 
 ### ————————————requirement————————————————###########
 
