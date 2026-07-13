@@ -1,5 +1,5 @@
 # Simple Parallel PPO
-The most simple parallel PPO (Continuous & Discrete). 
+A Simple parallel PPO Framework(Continuous & Discrete), inculding all the necessary features. 
 
 ### ————————————requirement————————————————###########
 
